@@ -11,7 +11,8 @@ https://www.youtube.com/watch?v=STjW3eH0Cik&list=PLUl4u3cNGP63gFHB6xb-kVBiQHYe_4
 
 This code is an implementation of the Minimax algorithm, which is a decision-making algorithm used for finding the best move in games like tic-tac-toe, checkers, and chess. 
 
-Overview: 
+Overview:
+---------
 Players: The code starts by identifying the maximum player (the one we are optimizing for) and the other player.
 Winning Move Check: It checks if the other player has won with their previous move. If so, it assigns a score to that game state. The score is positive if the other player is the max player and negative otherwise. The score is proportional to the number of empty squares plus one, which means the earlier the win, the higher the score.
 Draw Check: If there are no empty squares left and no one has won, it’s a draw, and the score is 0.
