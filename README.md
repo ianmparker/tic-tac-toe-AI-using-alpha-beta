@@ -28,3 +28,5 @@ Explore Moves: It goes through all possible moves left in the game.
 Simulate Move: For each move, it simulates the game by making the move, calling itself to simulate the opponent’s move (recursion), and then undoing the move.
 Update Best Move: If the simulated move results in a better score than the current best, it updates the best move.
 The goal is to find the move that leads to the best possible outcome for the ‘max’ player, assuming the ‘min’ player is also playing optimally. The function returns the best move and its score.
+
+![black child playing chess against ai 2](https://github.com/ianmparker/tic-tac-toe-AI-using-alpha-beta/assets/18231849/5774087c-5e50-490b-8fdf-da6a1a065c2f)
