@@ -1,13 +1,8 @@
+# tic-tac-toe-AI-using-alpha-beta
 Try Beating this AI in Tic-Tac-Toe. It uses Minimax with Alpha-Beta Pruning to make decisions. Good Luck!
 
-My LinkedIn : https://www.linkedin.com/in/ian-parker-596011142/
+![black child playing chess against ai 2](https://github.com/ianmparker/tic-tac-toe-AI-using-alpha-beta/assets/18231849/5774087c-5e50-490b-8fdf-da6a1a065c2f)
 
-References:
-MIT OpenCourseWare
-Search: Games, Minimax, and Alpha-Beta
-https://www.youtube.com/watch?v=STjW3eH0Cik&list=PLUl4u3cNGP63gFHB6xb-kVBiQHYe_4hSi&index=7
-
-# tic-tac-toe-AI-using-alpha-beta
 
 This code is an implementation of the Minimax algorithm, which is a decision-making algorithm used for finding the best move in games like tic-tac-toe, checkers, and chess. 
 
@@ -29,4 +24,11 @@ Overview:
 - Update Best Move: If the simulated move results in a better score than the current best, it updates the best move.
 - The goal is to find the move that leads to the best possible outcome for the ‘max’ player, assuming the ‘min’ player is also playing optimally. The function returns the best move and its score.
 
-![black child playing chess against ai 2](https://github.com/ianmparker/tic-tac-toe-AI-using-alpha-beta/assets/18231849/5774087c-5e50-490b-8fdf-da6a1a065c2f)
+------------------------------------------------
+
+My LinkedIn : https://www.linkedin.com/in/ian-parker-596011142/
+
+References:
+MIT OpenCourseWare
+Search: Games, Minimax, and Alpha-Beta
+https://www.youtube.com/watch?v=STjW3eH0Cik&list=PLUl4u3cNGP63gFHB6xb-kVBiQHYe_4hSi&index=7
